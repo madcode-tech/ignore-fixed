@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": {
+    "name": "MAD Code: bizarre",
+    "email": "madcode.tech@gmail.com"
+  },
+  "description": "FIXED PACKAGE JUST TEMPORALLY! This is fixed package: ignore <https://github.com/kaelzhang/node-ignore> All rights belong to https://github.com/kaelzhang/.",
+  "files": [
+    "ignore.js"
+  ],
+  "license": "MIT",
+  "main": "./ignore.js",
+  "name": "ignore",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madcode-tech/ignore-fixed.git"
+  },
+  "version": "3.2.0"
+}
